@@ -5,8 +5,8 @@ date:   2014-04-25 16:54:46
 author: Andrew Huster
 categories:
 - project
-img: atoz.jpg
-thumb: atoz.jpg
+img: a2z.jpg
+thumb: a2z.jpg
 website: http://atoz.audio
 ---
 ####YOUR PROJECT NAME
