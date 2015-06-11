@@ -27,14 +27,10 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: facebook
-    url: http://twitter.com/
   - title: twitter
-    url:
-  - title: instagram
-    url:
-  - title: tumblr
-    url:
+    url: http://twitter.com/IPPN
+  - title: globe
+    url: http://buddybox.me/
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 email: hello@ippn.audio
@@ -46,7 +42,7 @@ members:
   - name: Aaron L.M. Goodwin
     position: CEO
     text: Aaron is the visionary who founded IPPN.
-    img: team01.jpg
+    img: agoodwin.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
@@ -55,30 +51,30 @@ members:
   - name: Andrew Huster
     position: Vice President for Special Business
     text: Andrew leads special projects and new verticals for IPPN.
-    img: team02.jpg
+    img: ahuster.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
       - title: twitter
-        url: http://twitter.com/handle
+        url: http://twitter.com/ahuster
   - name: Adam Anderson
     position: Chief Content Officer
     text: Adam is in charge of editing because he finds that enjoyable.
-    img: team03.jpg
+    img: aanderson.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
       - title: twitter
-        url: http://twitter.com/handle
+        url: http://twitter.com/ThatAdamKid
   - name: Andrew Savage
     position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
+    text: We put Andrew in charge of marketing for some reason.
+    img: asavage.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
       - title: twitter
-        url: http://twitter.com/handle
+        url: http://twitter.com/A_Sav
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "IPPN, the International Posit Podcast Network, is the premiere network for transcendant digital-native mutimedia experiences and zany internet verticals."

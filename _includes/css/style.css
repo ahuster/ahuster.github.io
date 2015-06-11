@@ -546,3 +546,7 @@ a.anchor{
 	font-weight: 900;
 	src: url("/assets/fonts/ChronicaPro-Heavy.otf") format('opentype');
 }
+.smallcaps
+{
+	font-variant: small-caps;
+}
