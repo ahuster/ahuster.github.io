@@ -1,0 +1,13 @@
+---
+layout: project
+title:  "A to Z"
+date:   2014-04-25 16:54:46
+author: Andrew Huster
+categories:
+- project
+img: a2z.jpg
+thumb: a2z.jpg
+website: http://atoz.audio
+---
+#### A to Z
+Two friends, Andrew Huster and Zacke Naughton, talk about their transitions from college to the real world, and other stuff as well.
