@@ -1,14 +1,14 @@
 ---
 layout: project
-title:  "3 Guys, 3 Questions"
+title:  "Apps Discussed"
 date:   2014-04-25 16:54:46
-author: Aaron L.M. Goodwin
+author: Andrew Huster
 categories:
 - project
-img: 3g3q.png
-thumb: 3g3q.png
-website: http://3g3q.co
+img: appsdiscussed.png
+thumb: appsdiscussed.png
+website: http://alloftheabove.audio
 ---
-#### 3 Guys, 3 Questions
+#### Apps Discussed
 
-Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
+People talk about apps on their smartphone or tablet: the who, what, where, when, why, and how.
