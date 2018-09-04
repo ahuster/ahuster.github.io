@@ -2,6 +2,7 @@
 title: "Bandnames"
 ---
 
+Thought of a good one? Toot me it on Mastodon (link above in the header) and I'll add it. 
 - Quinoa Salad
 - Perplexed By Excel
 - Midsection In The Shot
@@ -43,3 +44,4 @@ title: "Bandnames"
 - Cordless Toast
 - The Post-It Note Situation
 - Transcendant Hot Dog
+- Peanut Butter LEGO Hype Machine
