@@ -16,6 +16,7 @@ navigation:
   - index.html
   - archive.html
   - about.md
+  - bandnames.md
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
   - fab fa-mastodon: "https://ohnomy.rocks/@ahuster"
