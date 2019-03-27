@@ -47,3 +47,5 @@ Thought of a good one? Toot me it on Mastodon (link above in the header) and I'l
 * Transcendant Hot Dog
 * Peanut Butter LEGO Hype Machine
 * Garlic Champion
+* Partisan Bologna
+* Robot Strike Zone
