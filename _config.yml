@@ -19,10 +19,11 @@ navigation:
   - bandnames.md
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
-  - fas fa-podcast: "https://baseline.show"
-  - fab fa-mastodon: "https://.rocks/@ahuster"
+  - fas fa-podcast: "https://goodstuff.fm/noidea"
+  - fab fa-mastodon: "https://ohnomy.rocks/@ahuster"
   - fab fa-github: "https://github.com/ahuster/"
   - fas fa-envelope: "mailto:ahuster@fastmail.com"
+  - fab fa-twitter: "https://twitter.com/ahuster"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
