@@ -2,7 +2,7 @@
 title: Bandnames
 
 ---
-Thought of a good one? Toot me it on Mastodon (link above in the header) and I'll add it.
+Thought of a good one? Tweet it to me (link above in the header) and I'll add it.
 
 * Quinoa Salad
 * Perplexed By Excel
